@@ -6,7 +6,7 @@
 - Platform Required : Windows NT or Linux Distribution
 - Hardware Requirement: Intel 32 bit processor
 - Description of  the Project: 
- - In this Project, implement data structures used in Operating System for FIle Management System.
+ --> In this Project, implement data structures used in Operating System for FIle Management System.
 - - Provide all implementations of necessary system calls and commands of File subsystem as Open, Close, Read, Write, Lseek, Create, RM. 
 - - While providing the implementations of all above functionality use my own data
 structures by referring to Algorithms of UNIX operating system.
