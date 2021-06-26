@@ -21,3 +21,9 @@ structures by referring to Algorithms of UNIX operating system.
   - SUPER BLOCK
   - DILB (DATA INODE LIST BLOCK)
   - DATA BLOCK 
+
+- To run this project use below commands
+  - Open terminal / command prompt and type below command
+  - `````
+    g++ VFS.cpp -o myexe
+  - `````
