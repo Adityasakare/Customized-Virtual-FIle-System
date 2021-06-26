@@ -13,11 +13,11 @@ structures by referring to Algorithms of UNIX operating system.
   - By using this project get the overview of UFS (UNIX File System) on any platform.
 
 - Data Structure used in the Project: 
-UAREA
-FILE TABLE
-IIT (IN CORE INODE TABLE)
-USER FILE DESCRIPTOR TABLE
-BOOT BLOCK
-SUPER BLOCK
-DILB (DATA INODE LIST BLOCK)
-DATA BLOCK 
+  - UAREA
+  - FILE TABLE
+  - IIT (IN CORE INODE TABLE)
+  - USER FILE DESCRIPTOR TABLE
+  - BOOT BLOCK
+  - SUPER BLOCK
+  - DILB (DATA INODE LIST BLOCK)
+  - DATA BLOCK 
